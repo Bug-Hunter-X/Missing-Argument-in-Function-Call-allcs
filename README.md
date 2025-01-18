@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: omitting required arguments when calling a function. The example shows a function that calculates the area of a rectangle. Calling the function without providing the 'width' argument results in a compiler error.  The solution shows how to correct this by providing all required arguments.
